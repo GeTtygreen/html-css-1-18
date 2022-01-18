@@ -1,0 +1,46 @@
+section{ 
+    padding:25px;
+}
+.grey{
+    height:100px;
+    background-color:lightgrey;
+}
+.square{
+
+    height:75px;
+    width:75px;
+    background-color:cornflowerblue;
+}
+.blue{
+    height:200px;
+    background-color:cornflowerblue;
+}
+.aqua{
+    height:200px;
+    background-color:aquamarine;
+}
+.green{
+    height:200px;
+    background-color:rgb(174, 236, 174);
+}
+.gold{
+    height:200px;
+    background-color:rgba(243, 240, 54, 0.699);
+}
+.question{
+    position:fixed;
+    right:10px;
+    bottom:10px;
+
+}
+.p{ 
+    color:white;
+    height:50px;
+    width:50px;
+    background-color:black;
+    border-radius:50%;  
+    border:none;
+}
+.next{
+    
+}

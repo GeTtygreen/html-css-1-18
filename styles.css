@@ -1,0 +1,23 @@
+.lightgrey{ 
+    background-color:rgb(204, 204, 204);
+}
+.dg{
+    height:125px;
+    
+    background-color:rgb(68, 67, 67);
+}
+.white{
+    margin-right:250px;
+    margin-left:250px;
+    height: 610px;
+    width:500px;
+    background-color:white;
+}
+.blk{
+    width:500px;
+    margin-left:250px;
+   margin-right:250px;
+    height:50px;
+    background-color:black;
+    
+}
